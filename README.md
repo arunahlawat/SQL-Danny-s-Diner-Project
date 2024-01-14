@@ -1,5 +1,5 @@
 # 🍣 Case Study #1 - Danny's Diner 
-<img src = "https://github.com/Antonio417/Data_Analyst_Portfolio/blob/main/SQL/Danny's-Diner/1.png" width="400" height="400" />
+<img src = "https://github.com/arunahlawat/SQL-Danny-s-Diner-Project/blob/main/1.png" width="400" height="400" />
 
 ## 📚 Table of Contents
 - [Aim](#aim)
@@ -59,11 +59,11 @@ The final members table captures the `join_date` when a `customer_id` joined the
 | B           | 2021-01-09 |
 
 ## Entity Relationship Diagram
-<img src = "https://github.com/Antonio417/Data_Analyst_Portfolio/blob/main/SQL/Danny's-Diner/ERD1.png" width="800" height="400" />
+<img src = "https://github.com/arunahlawat/SQL-Danny-s-Diner-Project/blob/main/ERD1.png" width="800" height="400" />
 
 
 ## Case Study Questions 
-(Click [Here](https://github.com/Antonio417/Data_Analyst_Portfolio/blob/main/SQL/Danny's-Diner/solution.md) for solution)
+(Click [Here](https://github.com/arunahlawat/SQL-Danny-s-Diner-Project/blob/main/solution.md) for solution)
 1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
 3. What was the first item from the menu purchased by each customer?
